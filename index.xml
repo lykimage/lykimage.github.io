@@ -6,10 +6,19 @@
     <description>Recent content on Icoding - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2020 16:02:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2020 20:33:05 +0800</lastBuildDate>
     
 	<atom:link href="http://lykimage.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Love</title>
+      <link>http://lykimage.github.io/post/liangchen/love/</link>
+      <pubDate>Tue, 24 Nov 2020 20:33:05 +0800</pubDate>
+      
+      <guid>http://lykimage.github.io/post/liangchen/love/</guid>
+      <description>嘿！四年！ L LOVE CHEN</description>
+    </item>
     
     <item>
       <title>C&#43;&#43; primer</title>
