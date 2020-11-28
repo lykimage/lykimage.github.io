@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Icoding - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2020 20:33:05 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2020 14:28:02 +0800</lastBuildDate>
     
 	<atom:link href="http://lykimage.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,12 +21,21 @@
     </item>
     
     <item>
-      <title>C&#43;&#43; primer</title>
-      <link>http://lykimage.github.io/post/my-first-post/</link>
-      <pubDate>Tue, 24 Nov 2020 16:02:00 +0800</pubDate>
+      <title>C&#43;&#43; 文章集合</title>
+      <link>http://lykimage.github.io/post/cpp/cpp_list/cpp_list/</link>
+      <pubDate>Fri, 27 Nov 2020 14:09:03 +0800</pubDate>
       
-      <guid>http://lykimage.github.io/post/my-first-post/</guid>
-      <description>hello chenmeiling I LOVE YOU</description>
+      <guid>http://lykimage.github.io/post/cpp/cpp_list/cpp_list/</guid>
+      <description>c++ primer 读书笔记 C++ Primer Chapter1 开始 [C++ Primer chapter2 变量与基本类型]()</description>
+    </item>
+    
+    <item>
+      <title>Cppprimer_ch1</title>
+      <link>http://lykimage.github.io/post/cpp/cppprimer_ch1/cppprimer_ch1/</link>
+      <pubDate>Fri, 27 Nov 2020 14:28:02 +0800</pubDate>
+      
+      <guid>http://lykimage.github.io/post/cpp/cppprimer_ch1/cppprimer_ch1/</guid>
+      <description>C++ primer 第1章 开始 编写一个简单的程序 函数：包含4部分：返回类型，函数名，形参列表，函数体。其中函数体是一个语句块。 main函数：每个cpp程序都</description>
     </item>
     
   </channel>

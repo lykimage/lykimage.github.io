@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://lykimage.github.io/</loc>
-    <lastmod>2020-11-24T20:33:05+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://lykimage.github.io/post/liangchen/love/</loc>
     <lastmod>2020-11-24T20:33:05+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -16,15 +9,29 @@
   </url>
   
   <url>
-    <loc>http://lykimage.github.io/post/</loc>
-    <lastmod>2020-11-24T20:33:05+08:00</lastmod>
+    <loc>http://lykimage.github.io/post/cpp/cpp_list/cpp_list/</loc>
+    <lastmod>2020-11-27T14:09:03+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://lykimage.github.io/post/my-first-post/</loc>
-    <lastmod>2020-11-24T16:02:00+08:00</lastmod>
+    <loc>http://lykimage.github.io/post/cpp/cppprimer_ch1/cppprimer_ch1/</loc>
+    <lastmod>2020-11-27T14:28:02+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://lykimage.github.io/</loc>
+    <lastmod>2020-11-27T14:28:02+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://lykimage.github.io/post/</loc>
+    <lastmod>2020-11-27T14:28:02+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
